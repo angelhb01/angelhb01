@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">🧑‍💻</h3>
 
 - 🌱 I’m currently learning **Libraries, Frameworks, and Languages**
 
