@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/angel-hernandez-barcenas-599867301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angel-hernandez-barcenas-599867301" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-hernandez-barcenas-599867301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angel-hernandez-barcenas-599867301" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/angelhb015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="angelhb015" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/angelhb01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="angelhb01" height="30" width="40" /></a>
 </p>
