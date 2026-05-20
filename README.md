@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate developer and data scientist</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🌱 I’m currently learning **Libraries, Frameworks, Languages**
 
 - 💼 Portfolio [https://angelhb.net/](https://angelhb.net/)
-
-- 💬 Ask me about **Machine learning and deep learning**
 
 - 📫 How to reach me **angelhb015@gmail.com**
 
